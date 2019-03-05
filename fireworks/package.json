@@ -1,0 +1,11 @@
+{
+  "name": "fireworks",
+  "version": "1.0.0",
+  "description": "Wicked app",
+  "main": "index.js",
+  "author": "drdynscript",
+  "license": "MIT",
+  "dependencies": {
+    "sense-hat-led": "^1.0.1"
+  }
+}
